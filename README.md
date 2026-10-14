@@ -20,3 +20,5 @@ Disponibilizar os materiais trabalhados em sala para que os alunos possam acessa
 ## Autor
  
 Luis Fernando Cavalcante da Silva
+Iuri
+Lukas Godoy
