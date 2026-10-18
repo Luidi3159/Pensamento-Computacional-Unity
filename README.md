@@ -17,8 +17,6 @@ Disponibilizar os materiais trabalhados em sala para que os alunos possam acessa
 1. Baixe o repositório.
 2. Abra o projeto pelo Unity Hub.
  
-## Autor
+## Autores
  
-Luis Fernando Cavalcante da Silva
-Iuri
-Lukas Godoy
+ Luis Fernando Cavalcante da Silva   |   Iuri Cordeiro   |   Lukas Godoy
