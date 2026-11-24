@@ -53,20 +53,29 @@ https://luidi3159.itch.io/labirinto-3d-pensamento-computacional
 - Boliche
 
 ## Equipe
-
-| Nome |
-|------|
-| Luis Fernando Cavalcante da Silva |
-| Iuri Cordeiro |
-| Lukas Godoy |
+ 
+| Nome | Responsabilidades |
+|------|------------------|
+| Antonio Marcos | Professor Coordenador do projeto |
+| Ricardo KrausKopf |  Professor Coordenador do projeto |
+| Matheus Lopes | Organizador |
+| Luis Fernando Cavalcante da Silva | Pesquisa de conteúdo, planejamento das aulas, instrutor e desenvolvimento dos projetos |
+| Iuri Cordeiro | Pesquisa de conteúdo, planejamento das aulas, instrutor e desenvolvimento dos projetos |
+| Lukas Godoy | Pesquisa de conteúdo, planejamento das aulas, instrutor e desenvolvimento dos projetos |
+| Érick Cristiano | Desenvolvimento de material visual |
+| Lucas Rivas | Desenvolvimento de material visual |
 
 ## Contato
 
 ### E-mail
-
+- Antonio Marcos: antonio.hachisuca@unioeste.br
+- Ricardo KrausKopf: ricardo.neto@unioeste.br
+- Matheus Lopes: matheusslopes2102@gmail.com
 - Luis Fernando: luisfernandotrabalho229@gmail.com
 - Lukas Godoy
-- Iuri Cordeiro
+- Iuri Cordeiro: iuri.cordeiro@unioeste.br
+- Érick Cristiano: erickwinck5@gmail.com
+- Lucas Rivas: lucasrn015@gmail.com
 
 ### GitHub
 
