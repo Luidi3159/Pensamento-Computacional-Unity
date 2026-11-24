@@ -71,8 +71,8 @@ https://luidi3159.itch.io/labirinto-3d-pensamento-computacional
 - Antonio Marcos: antonio.hachisuca@unioeste.br
 - Ricardo KrausKopf: ricardo.neto@unioeste.br
 - Matheus Lopes: matheusslopes2102@gmail.com
-- Luis Fernando: luisfernandotrabalho229@gmail.com
-- Lukas Godoy
+- Luis Fernando: luisfernandotrabalho229@gmail.com / Luis.Silva61@unioeste.br
+- Lukas Godoy: Lukas.godoy@unioeste.br
 - Iuri Cordeiro: iuri.cordeiro@unioeste.br
 - Érick Cristiano: erickwinck5@gmail.com
 - Lucas Rivas: lucasrn015@gmail.com
