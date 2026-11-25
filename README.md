@@ -68,7 +68,7 @@ https://luidi3159.itch.io/labirinto-3d-pensamento-computacional
 | Nome | Responsabilidades |
 |------|------------------|
 | Antonio Marcos | Professor Coordenador do projeto |
-| Ricardo KrausKopf |  Professor Coordenador do projeto |
+| Ricardo Krauskopf |  Professor Coordenador do projeto |
 
 ## Contato
 
@@ -80,7 +80,7 @@ https://luidi3159.itch.io/labirinto-3d-pensamento-computacional
 - Érick Cristiano: erickwinck5@gmail.com
 - Lucas Rivas: lucasrn015@gmail.com
 - Antonio Marcos: antonio.hachisuca@unioeste.br
-- Ricardo KrausKopf: ricardo.neto@unioeste.br
+- Ricardo Krauskopf: ricardo.neto@unioeste.br
 ### GitHub
 
 - Luis Fernando: https://github.com/Luidi3159
