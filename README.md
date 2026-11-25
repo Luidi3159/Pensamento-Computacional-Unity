@@ -51,10 +51,11 @@ https://luidi3159.itch.io/labirinto-3d-pensamento-computacional
 - Clicker
 - Boliche
 ### Repositórios vinculados ao projeto
-Pensamento Computacional: https://github.com/Luidi3159/Pensamento-Computacional-Unity
-Labirinto 3D: https://github.com/shakmatton/labirinto_plus
-Platformer: https://github.com/shakmatton/platformer/tree/main
-Pong: https://github.com/Coltling/Pong-2D
+
+- Pensamento Computacional: https://github.com/Luidi3159/Pensamento-Computacional-Unity
+- Labirinto 3D: https://github.com/shakmatton/labirinto_plus
+- Platformer: https://github.com/shakmatton/platformer/tree/main
+- Pong: https://github.com/Coltling/Pong-2D
 
 ## Equipe
  
