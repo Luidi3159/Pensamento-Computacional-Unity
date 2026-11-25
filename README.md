@@ -17,7 +17,7 @@ Os principais conteúdos trabalhados são:
 
 ## Objetivo do Repositório
 
-Disponibilizar os materiais utilizados durante as aulas para que os alunos possam acessar, revisar e praticar os conteúdos sempre que necessário.
+Disponibilizar os exercícios, projetos e materiais de apoio utilizados durante as aulas, permitindo que os alunos revisem e pratiquem os conteúdos estudados. Além disso, o repositório tem como objetivo apresentar o projeto Pensamento Computacional (Unity) à comunidade, compartilhando sua proposta, metodologia e resultados com estudantes e demais interessados no desenvolvimento de jogos digitais.
 
 
 ## Exercícios Disponíveis
@@ -56,27 +56,31 @@ https://luidi3159.itch.io/labirinto-3d-pensamento-computacional
  
 | Nome | Responsabilidades |
 |------|------------------|
-| Antonio Marcos | Professor Coordenador do projeto |
-| Ricardo KrausKopf |  Professor Coordenador do projeto |
 | Matheus Lopes | Organizador |
-| Luis Fernando Cavalcante da Silva | Pesquisa de conteúdo, planejamento das aulas, instrutor e desenvolvimento dos projetos |
+| Luis Fernando | Pesquisa de conteúdo, planejamento das aulas, instrutor e desenvolvimento dos projetos |
 | Iuri Cordeiro | Pesquisa de conteúdo, planejamento das aulas, instrutor e desenvolvimento dos projetos |
 | Lukas Godoy | Pesquisa de conteúdo, planejamento das aulas, instrutor e desenvolvimento dos projetos |
 | Érick Cristiano | Desenvolvimento de material visual |
 | Lucas Rivas | Desenvolvimento de material visual |
 
+## Cordenadores
+
+| Nome | Responsabilidades |
+|------|------------------|
+| Antonio Marcos | Professor Coordenador do projeto |
+| Ricardo KrausKopf |  Professor Coordenador do projeto |
+
 ## Contato
 
 ### E-mail
-- Antonio Marcos: antonio.hachisuca@unioeste.br
-- Ricardo KrausKopf: ricardo.neto@unioeste.br
 - Matheus Lopes: matheusslopes2102@gmail.com
 - Luis Fernando: luisfernandotrabalho229@gmail.com / Luis.Silva61@unioeste.br
 - Lukas Godoy: Lukas.godoy@unioeste.br
 - Iuri Cordeiro: iuri.cordeiro@unioeste.br
 - Érick Cristiano: erickwinck5@gmail.com
 - Lucas Rivas: lucasrn015@gmail.com
-
+- Antonio Marcos: antonio.hachisuca@unioeste.br
+- Ricardo KrausKopf: ricardo.neto@unioeste.br
 ### GitHub
 
 - Luis Fernando: https://github.com/Luidi3159
